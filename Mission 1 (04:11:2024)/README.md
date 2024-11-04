@@ -1,4 +1,4 @@
-# ILoveZubaidah
+# I Love Zubaidah
 
 Dear Gentle Reader,
 
