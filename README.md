@@ -151,7 +151,9 @@ Clue 2. the date when we first ever met for the first ever time for the first ti
 Clue 3. The colour produced from combining the colours of our dragons (The  name of the man who made a type of tea u drink. He was an Earl)
 Clue 4. The number of KMs we walked on our last hike, to the nearest KM
 
-Excellent. Now you have your password go and click this link (https://github.com/amekhalfia04/ILoveZubaidah/raw/refs/heads/main/ILoveZubaidah.dmg?download=)[https://github.com/amekhalfia04/ILoveZubaidah/raw/refs/heads/main/ILoveZubaidah.dmg?download=]
+(PASSWORD IS ALL LOWERCASE WITH NO SPACES x)
+
+Excellent. Now you have your password go and click this link [https://github.com/amekhalfia04/ILoveZubaidah/raw/refs/heads/main/ILoveZubaidah.dmg?download=]
 You are going to download the drive file. Open it as you would for any app you download from the internet and enter the password you have and enjoy whats inside. When you're done come back. Were not finished here yet...
 
 The rest of this article is only for Zubaidah:
