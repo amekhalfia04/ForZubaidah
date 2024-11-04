@@ -4,7 +4,7 @@ Dear Gentle Reader,
 
 I love Zubaidah. Finee, there, I said it. In fact, I love Zubaidah a lot. And it is allllll her fault. Who wouldn't love Zubaidah when she's the most lovable person ever. I love Zubaidah so much, and will love her for the rest of my life.
 
-Okay, before we discuss why I love Zubaidah, let me say I love Zubaidah in a few different ways, some creative, some not but whatever, just enjoy them x. (btw if zubaidah is reading this then please read 'I love Zubaidah' as 'I love you'. thank you for your understanding. Im writing this as a 2 in 1; im both telling you how much i love you, and also telling the worl how much i love you. Yay)
+Okay, before we discuss why I love Zubaidah, let me say I love Zubaidah in a few different ways, some creative, some not but whatever, just enjoy them x. (btw if Zubaidah is reading this then please read 'I love Zubaidah' as 'I love you'. thank you for your understanding. Im writing this as a 2 in 1; I'm both telling you how much I love you, and also telling the world how much I love you. Yay)
 
 1. Open Terminal.app using the launchpad on your MacBook please. Copy and paste in the following command:
 
@@ -20,13 +20,13 @@ Okay, before we discuss why I love Zubaidah, let me say I love Zubaidah in a few
 
   Imagine I am your MacBook please
 
-2. Same as above, except youre going to use the yes command. (WARNING: ur computer may crash lol. its going to spam "I love you" in the terminal. If you want to stop it, just click the red x and terminate the process, or press control+Z)
+2. Same as above, except you're going to use the yes command. (WARNING: ur computer may crash lol. it's going to spam "I love you" in the terminal. If you want to stop it, just click the red x and terminate the process, or press control+Z)
 
   ```bash
   yes "I Love You"
   ```
 
-  If I was to say 'I love you' as many times as i wanted to to Zubaidah, I'd advise you to leave that command running for about 50 years lol.**
+  If I was to say 'I love you' as many times as I wanted to to Zubaidah, I'd advise you to leave that command running for about 50 years lol.**
 
 3.	English: I love you
 
@@ -138,13 +138,13 @@ Okay, before we discuss why I love Zubaidah, let me say I love Zubaidah in a few
 
 57.	Lao: ຂ້ອຍຮັກເຈົ້າ (Khoi hak chao)
 
-Fantastic. Lets take a break. Go watch this [video](https://www.youtube.com/watch?v=PMivT7MJ41M&ab_channel=BrunoMars) x. Its specifically for Zubaidah from me, but all of you should enjoy it why not.
+Fantastic. Let's take a break. Go watch this [video](https://www.youtube.com/watch?v=PMivT7MJ41M&ab_channel=BrunoMars) x. It's specifically for Zubaidah from me, but all of you should enjoy it why not.
 
-Heyy, you back? We are going to get serious now, and move onto the main reason I am writing this article; answering the question "Why do I love Zubaidah?" To answer this question I am going to address Zubaidah directly. To make sure this happens, I have password protected the drive where Zubaidah is going to find the answer to this question. The drive should include the 501 word essay where she recieves the most of her answer, with a few extra surprises.
+Heyy, you back? We are going to get serious now, and move onto the main reason I am writing this article; answering the question "Why do I love Zubaidah?" To answer this question I am going to address Zubaidah directly. To make sure this happens, I have password protected the drive where Zubaidah is going to find the answer to this question. The drive should include the 500 or so word essay where she receives her answer.
 
-However, in light of maing this a little more fun and interesting im going to leave the clues to the password here. Only zubaidah should be able to decipher these clues and open the file.
+However, in light of making this a little more fun and interesting I'm going to leave the clues to the password here. Only Zubaidah should be able to decipher these clues and open the file.
 
-There are 4 clues for the passowrd. fter solving each of them, join them with no spaces to form one long password which should unlock the drive.
+There are 4 clues for the password. After solving each of them, join them with no spaces to form one long password which should unlock the drive.
 
 Clue 1. The 4 letter name given to the Huda Beauty Lipgloss you own
 Clue 2. the date when we first ever met for the first ever time for the first time ever (Format: DDMMYYYY)
@@ -152,10 +152,10 @@ Clue 3. The colour produced from combining the colours of our dragons (The  name
 Clue 4. The number of KMs we walked on our last hike, to the nearest KM
 
 Excellent. Now you have your password go and click this link (https://github.com/amekhalfia04/ILoveZubaidah/raw/refs/heads/main/ILoveZubaidah.dmg?download=)[https://github.com/amekhalfia04/ILoveZubaidah/raw/refs/heads/main/ILoveZubaidah.dmg?download=]
-You are going to download the drive file. Open it as you would for any app you download from the internet and enter the pssword you have and enjoy whats inside. When youre done come back. Were not finished here yet...
+You are going to download the drive file. Open it as you would for any app you download from the internet and enter the password you have and enjoy whats inside. When you're done come back. Were not finished here yet...
 
 The rest of this article is only for Zubaidah:
 
-**Okk, so theres actually so many cool things i wanted to show you, and say i love you through them, however i realise now that they will only work on my computer as i have all the prerequisites installed. Dont worry tho, Ill show you them one day on my laptop, or maybe youll let me install 600GB of things on your computer and ill show you there lol.
+**Okk, so theres actually so many cool things I wanted to show you, and say I love you through them, however I realise now that they will only work on my computer as I have all the prerequisites installed. Don't worry tho, I'll show you them one day on my laptop, or maybe you'll let me install 600GB of things on your computer and I'll show you there lol.
 
-Now that youre done reading this click this link x [link](https://facetime.apple.com/join#v=1&p=GpKMlJqzEe+k47Z2wi4jYQ&k=1B5-jaA_iJpjacmCS9xHzDnFjAeGGOsowGlAxemFp_0)
+Now that you're done reading this click this link x [link](https://facetime.apple.com/join#v=1&p=GpKMlJqzEe+k47Z2wi4jYQ&k=1B5-jaA_iJpjacmCS9xHzDnFjAeGGOsowGlAxemFp_0)
