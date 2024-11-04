@@ -20,13 +20,13 @@ Okay, before we discuss why I love Zubaidah, let me say I love Zubaidah in a few
 
   Imagine I am your MacBook please
 
-2. Same as above, except youre going to use the yes command. (WARNING: ur computer may crash lol. its going to spam "I love you" in the terminal. If you want to stop it, just click x and terminate the process, or pres control+Z)
+2. Same as above, except youre going to use the yes command. (WARNING: ur computer may crash lol. its going to spam "I love you" in the terminal. If you want to stop it, just click the red x and terminate the process, or press control+Z)
 
   ```bash
   yes "I Love You"
   ```
 
-If I was to say 'I love you' as many times as i wanted to to Zubaidah, I'd advise you to leave that command running for about 50 years lol.
+  If I was to say 'I love you' as many times as i wanted to to Zubaidah, I'd advise you to leave that command running for about 50 years lol.
 
 3.	English: I love you
 
@@ -50,13 +50,13 @@ If I was to say 'I love you' as many times as i wanted to to Zubaidah, I'd advis
 
 13.	Korean: 사랑해 (Saranghae)
 
-14.	Arabic: أحبك (Uhibbuka [m], Uhibbuki [f])
+14.	Arabic: أحبك
 
 15.	Greek: Σ’ αγαπώ (S’agapó)
 
-16.	Hindi: मैं तुमसे प्यार करता हूँ (Main tumse pyaar karta hoon) [m] / मैं तुमसे प्यार करती हूँ (Main tumse pyaar karti hoon) [f]
+16.	Hindi: मैं तुमसे प्यार करता हूँ
 
-17.	Hebrew: אני אוהב אותך (Ani ohev otach) [m] / אני אוהבת אותך (Ani ohevet otcha) [f]
+17.	Hebrew: אני אוהב אותך (I'd love you even if you were a zionist)
 
 18.	Turkish: Seni seviyorum
 
@@ -78,7 +78,7 @@ If I was to say 'I love you' as many times as i wanted to to Zubaidah, I'd advis
 
 27.	Thai: ฉันรักคุณ (Chan rak khun)
 
-28.	Vietnamese: Anh yêu em [m] / Em yêu anh [f]
+28.	Vietnamese: Em yêu anh [f]
 
 29.	Indonesian: Aku cinta kamu
 
@@ -118,7 +118,7 @@ If I was to say 'I love you' as many times as i wanted to to Zubaidah, I'd advis
 
 47.	Pashto: زه تا سره مينه لرم (Za ta sara mina laram)
 
-48.	Urdu: میں تم سے محبت کرتا ہوں (Main tum se mohabbat karta hoon) [m] / میں تم سے محبت کرتی ہوں (Main tum se mohabbat karti hoon) [f]
+48.	Urdu: میں تم سے محبت کرتا ہ/ میں تم سے محبت کرتی ہوں (Main tum se mohabbat karti hoon) [f]
 
 49.	Nepali: म तिमीलाई माया गर्छु (Ma timilai maya garchu)
 
@@ -138,4 +138,8 @@ If I was to say 'I love you' as many times as i wanted to to Zubaidah, I'd advis
 
 57.	Lao: ຂ້ອຍຮັກເຈົ້າ (Khoi hak chao)
 
-Fantastic. Lets take a break.
+Fantastic. Lets take a break. Go watch this [video](https://www.youtube.com/watch?v=PMivT7MJ41M&ab_channel=BrunoMars) x. Its specifically for Zubaidah from me, but all of you should enjoy it why not.
+
+Heyy, you back? We are going to get serious now, and move onto the main reason I am writing this article; answering the question "Why do I love Zubaidah?" To answer this question I am going to address Zubaidah directly. To make sure this happens, I have password protected the drive where Zubaidah is going to find the answer to this question. The drive should include the 501 word essay where she recieves the most of her answer, with a few extra surprises.
+
+However, in light of maing this a little more fun and interesting im going to leave the clues to the password here. Only zubaidah should be able to decipher these clues and open the file.
