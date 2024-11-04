@@ -26,7 +26,7 @@ Okay, before we discuss why I love Zubaidah, let me say I love Zubaidah in a few
   yes "I Love You"
   ```
 
-  If I was to say 'I love you' as many times as i wanted to to Zubaidah, I'd advise you to leave that command running for about 50 years lol.
+  If I was to say 'I love you' as many times as i wanted to to Zubaidah, I'd advise you to leave that command running for about 50 years lol.**
 
 3.	English: I love you
 
@@ -143,3 +143,19 @@ Fantastic. Lets take a break. Go watch this [video](https://www.youtube.com/watc
 Heyy, you back? We are going to get serious now, and move onto the main reason I am writing this article; answering the question "Why do I love Zubaidah?" To answer this question I am going to address Zubaidah directly. To make sure this happens, I have password protected the drive where Zubaidah is going to find the answer to this question. The drive should include the 501 word essay where she recieves the most of her answer, with a few extra surprises.
 
 However, in light of maing this a little more fun and interesting im going to leave the clues to the password here. Only zubaidah should be able to decipher these clues and open the file.
+
+There are 4 clues for the passowrd. fter solving each of them, join them with no spaces to form one long password which should unlock the drive.
+
+Clue 1. The 4 letter name given to the Huda Beauty Lipgloss you own
+Clue 2. the date when we first ever met for the first ever time for the first time ever (Format: DDMMYYYY)
+Clue 3. The colour produced from combining the colours of our dragons (The  name of the man who made a type of tea u drink. He was an Earl)
+Clue 4. The number of KMs we walked on our last hike, to the nearest KM
+
+Excellent. Now you have your password go and click this link (https://github.com/amekhalfia04/ILoveZubaidah/raw/refs/heads/main/ILoveZubaidah.dmg?download=)[https://github.com/amekhalfia04/ILoveZubaidah/raw/refs/heads/main/ILoveZubaidah.dmg?download=]
+You are going to download the drive file. Open it as you would for any app you download from the internet and enter the pssword you have and enjoy whats inside. When youre done come back. Were not finished here yet...
+
+The rest of this article is only for Zubaidah:
+
+**Okk, so theres actually so many cool things i wanted to show you, and say i love you through them, however i realise now that they will only work on my computer as i have all the prerequisites installed. Dont worry tho, Ill show you them one day on my laptop, or maybe youll let me install 600GB of things on your computer and ill show you there lol.
+
+Now that youre done reading this click this link x [link](https://facetime.apple.com/join#v=1&p=GpKMlJqzEe+k47Z2wi4jYQ&k=1B5-jaA_iJpjacmCS9xHzDnFjAeGGOsowGlAxemFp_0)
