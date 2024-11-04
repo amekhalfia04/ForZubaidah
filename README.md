@@ -147,8 +147,11 @@ However, in light of making this a little more fun and interesting I'm going to 
 There are 4 clues for the password. After solving each of them, join them with no spaces to form one long password which should unlock the drive.
 
 Clue 1. The 4 letter name given to the Huda Beauty Lipgloss you own
+
 Clue 2. the date when we first ever met for the first ever time for the first time ever (Format: DDMMYYYY)
+
 Clue 3. The colour produced from combining the colours of our dragons (The  name of the man who made a type of tea u drink. He was an Earl)
+
 Clue 4. The number of KMs we walked on our last hike, to the nearest KM
 
 (PASSWORD IS ALL LOWERCASE WITH NO SPACES x)
