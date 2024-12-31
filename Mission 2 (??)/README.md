@@ -17,5 +17,5 @@ cd Desktop
 now copy in the following command
 
 '''bash
-https://github.com/amekhalfia04/ForZubaidah.git
+gh repo clone amekhalfia04/ForZubaidah
 '''
