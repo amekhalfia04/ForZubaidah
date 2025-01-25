@@ -19,7 +19,7 @@ cd Desktop
 now copy in the following command
 
 ```bash
-git clone amekhalfia04/ForZubaidah
+git clone https://github.com/amekhalfia04/ForZubaidah.git
 ```
 
 This should set a folder that mirrors the github on ur computer, so that downloading files etc is a lot smoother
